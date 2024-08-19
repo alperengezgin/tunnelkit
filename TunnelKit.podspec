@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
     s.homepage          = "https://github.com/passepartoutvpn/tunnelkit"
     s.license           = { :type => "GPLv3", :file => "LICENSE" }
     s.author            = { "Davide De Rosa" => "keeshux@gmail.com" }
-    s.source            = { :git => "https://github.com/passepartoutvpn/tunnelkit.git", :tag => "v#{s.version}" }
+    s.source            = { :git => "https://github.com/alperengezgin/tunnelkit.git", :tag => "v#{s.version}" }
     s.swift_version     = "5.0"
 
     s.ios.deployment_target = "11.0"
